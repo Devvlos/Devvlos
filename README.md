@@ -22,13 +22,11 @@ All of my projects are available on my portfolio website: [theshiva.xyz/projects
 
 <details>
   <summary>Github Stats</summary>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivabhattacharjee&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="shiva" </p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devvlos&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="shiva" </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivabhattacharjee&show_icons=true&locale=en&theme=midnight-purple" alt="shiva" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devvlos&show_icons=true&locale=en&theme=midnight-purple" alt="shiva" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivabhattacharjee&theme=midnight-purple" alt="shiva" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devvlos&theme=midnight-purple" alt="shiva" /></p>
 </details>
 <img src="https://profile-counter.glitch.me/Devvlos/count.svg" alt="Shiva's :: Visitor's Count" />
 
-## Lets Connect
-I'm excited to connect with others via [Email](mailto:itsshivahere@outlook.com) and [Twitter](https://twitter.com/sh17va) to chat about projects and ideas I'm taking on freelance projects and I am open to hearing about potential opportunities, discussing them with you and then potentially collaborating if it's a good fit.
