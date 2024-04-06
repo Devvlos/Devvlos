@@ -44,9 +44,9 @@ I'm an indie full-stack developer and content creator building my version of the
 [![I Turned Fake Mobile Game Ad into a Real Game](https://ytcards.demolab.com/?id=qIA2Zk35bts&title=I%20Turned%20Fake%20Mobile%20Game%20Ad%20into%20a%20Real%20Game%20|%20Game%20Devlog%20Hindi&lang=en&timestamp=1706038911&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=457 "I Turned Fake Mobile Game Ad into a Real Game | Game Devlog Hindi")](https://youtu.be/qIA2Zk35bts?si=WnPd64gB4YINSCYr)
 
 <!-- END YOUTUBE-CARDS -->
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@DevLos_?sub_confirmation=1)
 
 #
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@DevLos_?sub_confirmation=1)
 
 ### 📊 Stats
 
