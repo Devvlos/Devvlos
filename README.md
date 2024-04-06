@@ -56,7 +56,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devvlos&theme=midnight-purple" alt="shiva" /></p>
 </details>
-<img src="https://profile-counter.glitch.me/devvlos/count.svg" alt="Shiva's :: Visitor's Count" />
+<img src="https://profile-counter.glitch.me/devvlos/count.svg" alt="Devlos's :: Visitor's Count" />
 
 
 
