@@ -1,4 +1,4 @@
-# 🏄‍♂️ DevLos
+# 🏄‍♂🌌 Adhish
 
 **`Digital Craftsman (Developer/Creator)`**
 
@@ -63,7 +63,7 @@ I'm an indie full-stack developer and content creator building my version of the
 #
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Coding Journey</h3></summary>
  I am Adhish Gupta also known as Devlos A self taught programmer Who Currently living in the beautiful city Patna in India, I am 16 years old right now and i am in 12th standard doing science and my field of interest is Science, Technology, Electrical and Computer Engineering. I am a fullstack developer And React Native App Developer and also a Indie Game Developer And Right Now I am Learning Machine Learning And artificial intelligence. I have Work experience with few companies and individuals as A full stack developer And Help Them Make Their Dream Projects, Game development Is My Hobby I like To Create Something From My Imagination And Convert It Into A Fun Game And Unity The Game Engine I use to make Games help me do so with the help of c#(programming language used in game development). Also interested in AI And Hell curious About space and cosmos and the functioning of our nature and universe, Developing technology and Science is what i want to do.
 
 [youtube]: https://youtube.com/@DevLos_
