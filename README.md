@@ -45,6 +45,10 @@ I'm an indie full-stack developer and content creator building my version of the
 
 <!-- END YOUTUBE-CARDS -->
 
+#
+
+### 📊 Stats
+
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@DevLos_?sub_confirmation=1)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivabhattacharjee&show_icons=true&locale=en&theme=midnight-purple" alt="shiva" /></p>
 
@@ -52,13 +56,7 @@ I'm an indie full-stack developer and content creator building my version of the
 </details>
 <img src="https://profile-counter.glitch.me/shivabhattacharjee/count.svg" alt="Shiva's :: Visitor's Count" />
 
-#
-
-### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=devvlos&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5)
 
 #
 
