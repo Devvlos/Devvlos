@@ -46,6 +46,11 @@ I'm an indie full-stack developer and content creator building my version of the
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@DevLos_?sub_confirmation=1)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivabhattacharjee&show_icons=true&locale=en&theme=midnight-purple" alt="shiva" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivabhattacharjee&theme=midnight-purple" alt="shiva" /></p>
+</details>
+<img src="https://profile-counter.glitch.me/shivabhattacharjee/count.svg" alt="Shiva's :: Visitor's Count" />
 
 #
 
