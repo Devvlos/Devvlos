@@ -46,10 +46,10 @@ I'm an indie full-stack developer and content creator building my version of the
 <!-- END YOUTUBE-CARDS -->
 
 #
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@DevLos_?sub_confirmation=1)
 
 ### 📊 Stats
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@DevLos_?sub_confirmation=1)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivabhattacharjee&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="shiva" </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivabhattacharjee&show_icons=true&locale=en&theme=midnight-purple" alt="shiva" /></p>
