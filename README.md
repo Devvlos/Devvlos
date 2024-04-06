@@ -50,13 +50,13 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ### 📊 Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivabhattacharjee&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="shiva" </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devvlos&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="shiva" </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivabhattacharjee&show_icons=true&locale=en&theme=midnight-purple" alt="shiva" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devvlos&show_icons=true&locale=en&theme=midnight-purple" alt="shiva" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivabhattacharjee&theme=midnight-purple" alt="shiva" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devvlos&theme=midnight-purple" alt="shiva" /></p>
 </details>
-<img src="https://profile-counter.glitch.me/shivabhattacharjee/count.svg" alt="Shiva's :: Visitor's Count" />
+<img src="https://profile-counter.glitch.me/devvlos/count.svg" alt="Shiva's :: Visitor's Count" />
 
 
 
