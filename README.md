@@ -1,4 +1,4 @@
-# 🏄‍♂🌌 Adhish
+# 🌌 Adhish
 
 **`Digital Craftsman (Developer/Creator)`**
 
