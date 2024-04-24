@@ -52,7 +52,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devvlos&show_icons=true&locale=en&theme=midnight-purple" alt="shiva" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devvlos&theme=midnight-purple" alt="shiva" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devvlos&theme=midnight-purple" alt="Adhish" /></p>
 </details>
 <img src="https://profile-counter.glitch.me/devvlos/count.svg" alt="Devlos's :: Visitor's Count" />
 
