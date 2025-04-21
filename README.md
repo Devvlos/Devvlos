@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Creator)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[DevLos_][youtube]" to more than 73 subscribers.
+I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[DevLos_][youtube]" to more than 100 subscribers.
 
    <p align="left">
       <a href="https://www.youtube.com/@DevLos_?sub_confirmation=1">
@@ -60,7 +60,6 @@ I'm an indie full-stack developer and content creator building my version of the
 
 #
 
- <h3>👨‍💻 Coding Journey</h3>
- I am Adhish Gupta also known as Devlos A self taught programmer Who Currently living in the beautiful city Patna in India, I am 16 years old right now and i am in 12th standard doing science and my field of interest is Science, Technology, Electrical and Computer Engineering. I am a fullstack developer And React Native App Developer and also a Indie Game Developer And Right Now I am Learning Machine Learning And artificial intelligence. I have Work experience with few companies and individuals as A full stack developer And Help Them Make Their Dream Projects, Game development Is My Hobby I like To Create Something From My Imagination And Convert It Into A Fun Game And Unity The Game Engine I use to make Games help me do so with the help of c#(programming language used in game development). Also interested in AI And Hell curious About space and cosmos and the functioning of our nature and universe, Developing technology and Science is what i want to do.
+
 
 [youtube]: https://youtube.com/@DevLos_
